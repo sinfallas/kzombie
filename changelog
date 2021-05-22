@@ -1,4 +1,10 @@
-commit b132680b4d70c364a34fccc59732687400cf6f8f (HEAD -> master, origin/master, origin/HEAD)
+commit 86e24a3f996ca7135ed9d4abd45af63d8e6a3e84 (HEAD -> master, origin/master, origin/HEAD)
+Author: Jesus <sinfallas@gmail.com>
+Date:   Sun Jan 31 16:05:55 2021 -0400
+
+    * changelog
+
+commit b132680b4d70c364a34fccc59732687400cf6f8f
 Author: config <Palencia>
 Date:   Sun Oct 4 16:01:55 2020 -0400
 
